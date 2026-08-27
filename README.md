@@ -6,8 +6,8 @@ Hands-on notebooks for the Qiskit workshop.
 
 | Notebook | Description |
 |---|---|
-| [`Introduction_to_Qiskit_Codealong_Client.ipynb`](Introduction_to_Qiskit_Codealong_Client.ipynb) | Introduction to Qiskit: building circuits, the Bell circuit, and running on real IBM Quantum hardware via Qiskit Runtime. |
-| [`grovers_algorithm_tutorial.ipynb`](grovers_algorithm_tutorial.ipynb) | Grover's algorithm from first principles: the search problem, the oracle and diffuser, running on a simulator and real hardware, a logic-based Minesweeper oracle, and exercises. |
+| [`2_Introduction_to_Qiskit_Codealong_Client.ipynb`](2_Introduction_to_Qiskit_Codealong_Client.ipynb) | Introduction to Qiskit: building circuits, the Bell circuit, and running on real IBM Quantum hardware via Qiskit Runtime. |
+| [`3_grovers_algorithm_tutorial.ipynb`](3_grovers_algorithm_tutorial.ipynb) | Grover's algorithm from first principles: the search problem, the oracle and diffuser, running on a simulator and real hardware, a logic-based Minesweeper oracle, and exercises. |
 
 ## Running on Google Colab
 
